@@ -1,6 +1,6 @@
 # Luhn-Checker
 
-Generates random rumbers and check if it passes Luhn's algorithm.
+Generates random rumbers and checks if it passes Luhn's algorithm.
 
 # Contributing
 1 - The code needs to run without any errors.                                                                                    
