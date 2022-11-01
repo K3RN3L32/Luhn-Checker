@@ -10,4 +10,5 @@ Generates random rumbers and checks if it passes Luhn's algorithm.
 * code repeats until it passes luhn
 * ability to input a bin
 * eg. BIN(6)+RAND(12)
+
 GNU Public License v3
